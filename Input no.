@@ -1,0 +1,8 @@
+#include  <stdio.h>
+  int main()
+{
+          int a;
+          int b;
+          int product;
+printf("enter the first 2 integers  : #d/n");
+scanf ( "
